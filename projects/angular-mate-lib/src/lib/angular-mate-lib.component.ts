@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-angular-mate-lib',
   template: `
     <p>
-      angular-mate-lib works!
+      angular-mate-lib worksss!
     </p>
   `,
   styles: [
